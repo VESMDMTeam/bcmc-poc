@@ -1,0 +1,155 @@
+body,
+.movie-background,
+.photo-background {
+	color: #808080;
+	background-color: #F1F1F1;
+}
+
+#container {
+	background-color: #FFFFFF;
+}
+
+a:link, a:visited {
+	color: #071F4D;
+}
+
+#pageHeader,
+.photo-navigation,
+.exif-data {
+	background-color: #FFFFFF;
+	border-top-color: #003399;
+}
+
+#pageHeader h1 {
+	color: #FFFFFF;
+}
+		
+#pageHeader h2,
+.photo-caption,
+.photo-navigation,
+.exif-data {
+	color: #797979;
+}
+
+#footer {
+	color: #797979;
+	background-color: #FFFFFF;
+}
+
+#footer a {
+	color: #FFFFFF;
+}
+
+#sidebarContainer #sidebar {
+	background-color: #F1F1F1;
+}
+
+#sidebarContainer #sidebar a {
+	color: #455E85;
+}
+
+#blog-archives a:hover,
+#blog-categories a:hover,
+#blog-rss-feeds a:hover {
+	color: #808080;
+}
+
+.blog-archive-link-disabled,
+.blog-category-link-disabled {
+	color: #808080;
+	text-decoration: none;
+}
+
+#navcontainer {
+	color: #FFFFFF;
+	background-color: #003399;
+}
+
+#navcontainer ul  {
+	border-bottom-color: #00197F;
+	background-color: #003399;
+}
+
+#navcontainer ul ul {
+	border-top-color: #00268C;
+	background-color: #003399;
+}
+
+#navcontainer ul a {
+	color: #071F4D;
+}
+
+#navcontainer ul a:hover {
+	color: #FFFFFF;
+}
+
+#navcontainer #current,
+#navcontainer .currentAncestor {
+	color: #FFFFFF;
+}
+
+#navcontainer ul ul ul #current,
+#navcontainer ul ul ul .currentAncestor {
+	color: #003399;
+}
+
+#navcontainer ul ul ul {
+	border-bottom-color: #071F4D;
+	border-top-color: #00197F;
+}
+
+#navcontainer ul ul ul a:hover {
+	color: #003399;
+}
+
+#sidebarContainer .sideHeader,
+#sidebarContainer h1,
+#sidebarContainer h2,
+#sidebarContainer h3,
+#sidebarContainer h4,
+#sidebarContainer h5,
+.blog-archive-link {
+	border-bottom-color: #BEBEBE;
+	color: #BEBEBE;
+}
+
+.blog-entry-title a,
+.photo-title,
+.album-title,
+.movie-page-title,
+h1, h2, h3, h4,
+.blog-archive-month {
+	color: #071F4D;
+}
+
+.blog-entry-date,
+.album-description,
+.movie-page-description {
+	border-color: #F1F1F1;
+}
+
+.blog-entry-title a:hover,
+.blog-entry-comments a {
+	color: #003399;
+}
+
+.blog-entry-comments {
+	border-top-color: #003399;
+	color: #003399;
+}
+
+.thumbnail-frame img,
+.photo-frame,
+.movie-thumbnail-frame img {
+	border-color: #455E85;
+	background: #2B446B;
+}
+
+.photo-navigation a:link,
+.photo-navigation a:visited {
+	color: #003399;
+}
+
+.photo-navigation a:hover {
+	color: #FFFFFF;
+}
